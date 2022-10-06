@@ -1,6 +1,6 @@
 <?php
 
-namespace fredyns\region\migrations;
+namespace rzlco666\region\migrations;
 
 use yii\db\Migration;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace fredyns\region\migrations;
+namespace rzlco666\region\migrations;
 
-use fredyns\region\models\Postcode;
+use rzlco666\region\models\Postcode;
 use yii\db\Migration;
 
 /**

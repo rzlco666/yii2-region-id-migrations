@@ -1,11 +1,11 @@
 <?php
 
-namespace fredyns\region\migrations;
+namespace rzlco666\region\migrations;
 
-use fredyns\region\models\City;
-use fredyns\region\models\District;
-use fredyns\region\models\Province;
-use fredyns\region\models\Subdistrict;
+use rzlco666\region\models\City;
+use rzlco666\region\models\District;
+use rzlco666\region\models\Province;
+use rzlco666\region\models\Subdistrict;
 use yii\db\Migration;
 
 /**

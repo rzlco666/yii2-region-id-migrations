@@ -1,6 +1,6 @@
 {
-    "name": "fredyns/yii2-region-id",
-    "description": "Indonesia regional & postcode database as Yii2 Extension",
+    "name": "rzlco666/yii2-region-id-migrations",
+    "description": "Indonesia regional & postcode database as Yii2 Migrations",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "fredyns\\region\\": ""
+            "rzlco666\\region\\": ""
         }
     }
 }
